@@ -4,15 +4,15 @@
 	width:100%;
 	margin:0 auto;
 }
-.column1{
+.col-sm-1{
 	float: left;
 	width:70px;
 }
-.column2{
+.col-sm-2{
 	float: left;
 	width:70px;
 }
-.column3{
+.col-sm-3{
 	float: left;
 	width:70px;
 }
